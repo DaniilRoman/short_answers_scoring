@@ -1,0 +1,10 @@
+0 - 0.8938: data_semi_preprocess_without_stopwords: tfidf_distance, laser_distance, use_distance : :
+1 - 0.8938: data_semi_preprocess_without_stopwords: tfidf_distance, laser_distance, use_distance, fasttext_distance, bert_distance : :
+2 - 0.8938: data_semi_preprocess_without_stopwords: laser_distance, use_distance : :
+3 - 0.8938: data_semi_preprocess_without_stopwords: use_distance, fasttext_distance, bert_distance : :
+4 - 0.8947: data_origin: tfidf_distance, laser_distance, use_distance, fasttext_distance, bert_distance : :
+5 - 0.8947: data_origin: laser_distance, use_distance, fasttext_distance, bert_distance : :
+6 - 0.9035: data_origin: laser_distance, use_distance, fasttext_distance, bert_distance, ner_custom_overlap : :
+7 - 0.9211: data_origin: use_distance, bert_distance : :
+8 - 0.9292: data_semi_preprocc_with_stopwords: use_distance, bert_distance : :
+9 - 0.9292: data_semi_preprocess_without_stopwords: use_distance, bert_distance : :

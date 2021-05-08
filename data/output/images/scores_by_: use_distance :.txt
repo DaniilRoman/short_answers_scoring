@@ -1,0 +1,4 @@
+0 - 0.8142: data_preprocess: use_distance : :
+1 - 0.8158: data_origin: use_distance : :
+2 - 0.8673: data_semi_preprocc_with_stopwords: use_distance : :
+3 - 0.8673: data_semi_preprocess_without_stopwords: use_distance : :

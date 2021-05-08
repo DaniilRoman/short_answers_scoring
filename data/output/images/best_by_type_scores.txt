@@ -1,0 +1,4 @@
+0 - 0.8938: data_preprocess: laser_distance, use_distance, fasttext_distance, bert_distance :
+1 - 0.9211: data_origin: use_distance, bert_distance :
+2 - 0.9292: data_semi_preprocc_with_stopwords: use_distance, bert_distance :
+3 - 0.9292: data_semi_preprocess_without_stopwords: use_distance, bert_distance :

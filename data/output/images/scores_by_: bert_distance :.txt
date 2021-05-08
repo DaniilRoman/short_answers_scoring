@@ -1,0 +1,4 @@
+0 - 0.5752: data_semi_preprocc_with_stopwords: bert_distance : :
+1 - 0.5752: data_semi_preprocess_without_stopwords: bert_distance : :
+2 - 0.5965: data_origin: bert_distance : :
+3 - 0.6106: data_preprocess: bert_distance : :

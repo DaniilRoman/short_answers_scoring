@@ -1,0 +1,4 @@
+0 - 0.6106: data_preprocess: fasttext_distance : :
+1 - 0.646: data_semi_preprocc_with_stopwords: fasttext_distance : :
+2 - 0.646: data_semi_preprocess_without_stopwords: fasttext_distance : :
+3 - 0.6842: data_origin: fasttext_distance : :

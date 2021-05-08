@@ -1,0 +1,10 @@
+0 - 0.35: data_preprocess/ner_overlap :
+1 - 0.43: data_semi_preprocc_with_stopwords/ner_overlap, data_semi_preprocess_without_stopwords/ner_overlap :
+2 - 0.43: data_semi_preprocc_with_stopwords/ner_overlap :
+3 - 0.43: data_semi_preprocess_without_stopwords/ner_overlap :
+4 - 0.47: data_preprocess/ner_overlap, data_semi_preprocc_with_stopwords/ner_overlap :
+5 - 0.47: data_preprocess/ner_overlap, data_semi_preprocess_without_stopwords/ner_overlap :
+6 - 0.5: data_origin/ner_custom_overlap, data_preprocess/ner_custom_overlap :
+7 - 0.5: data_origin/ner_custom_overlap, data_semi_preprocc_with_stopwords/ner_custom_overlap :
+8 - 0.5: data_origin/ner_custom_overlap, data_semi_preprocess_without_stopwords/ner_custom_overlap :
+9 - 0.5: data_origin/ner_custom_overlap :

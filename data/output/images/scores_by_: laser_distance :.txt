@@ -1,0 +1,4 @@
+0 - 0.6106: data_semi_preprocc_with_stopwords: laser_distance : :
+1 - 0.6106: data_semi_preprocess_without_stopwords: laser_distance : :
+2 - 0.6195: data_preprocess: laser_distance : :
+3 - 0.7281: data_origin: laser_distance : :

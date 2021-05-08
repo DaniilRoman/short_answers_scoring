@@ -1,0 +1,10 @@
+0 - 0.9115: data_origin/use_distance, data_preprocess/laser_distance :
+1 - 0.9115: data_preprocess/laser_distance, data_semi_preprocc_with_stopwords/use_distance :
+2 - 0.9115: data_preprocess/laser_distance, data_semi_preprocess_without_stopwords/use_distance :
+3 - 0.9115: data_preprocess/bert_distance, data_semi_preprocc_with_stopwords/use_distance :
+4 - 0.9115: data_preprocess/bert_distance, data_semi_preprocess_without_stopwords/use_distance :
+5 - 0.9204: data_origin/tfidf_distance, data_preprocess/bert_distance :
+6 - 0.9204: data_semi_preprocc_with_stopwords/use_distance, data_semi_preprocc_with_stopwords/bert_distance :
+7 - 0.9204: data_semi_preprocc_with_stopwords/use_distance, data_semi_preprocess_without_stopwords/bert_distance :
+8 - 0.9204: data_semi_preprocc_with_stopwords/bert_distance, data_semi_preprocess_without_stopwords/use_distance :
+9 - 0.9204: data_semi_preprocess_without_stopwords/use_distance, data_semi_preprocess_without_stopwords/bert_distance :
